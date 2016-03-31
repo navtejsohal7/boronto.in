@@ -1,0 +1,76 @@
+[04-Nov-2014 13:02:27] PHP Warning:  Division by zero in /home1/ssggssch/public_html/boronto.in/script/post.php on line 73
+[04-Nov-2014 13:02:27] PHP Warning:  Division by zero in /home1/ssggssch/public_html/boronto.in/script/post.php on line 73
+[04-Nov-2014 13:02:27] PHP Warning:  Division by zero in /home1/ssggssch/public_html/boronto.in/script/post.php on line 73
+[04-Nov-2014 13:02:27] PHP Warning:  Division by zero in /home1/ssggssch/public_html/boronto.in/script/post.php on line 73
+[04-Nov-2014 13:02:27] PHP Warning:  getimagesize(jpg’) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/post.php on line 8
+[04-Nov-2014 13:02:27] PHP Warning:  Division by zero in /home1/ssggssch/public_html/boronto.in/script/post.php on line 9
+[04-Nov-2014 13:02:27] PHP Warning:  imagecreatefromjpeg(jpg’) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/post.php on line 27
+[04-Nov-2014 13:02:27] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home1/ssggssch/public_html/boronto.in/script/post.php on line 28
+[04-Nov-2014 13:02:27] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/ssggssch/public_html/boronto.in/script/post.php on line 29
+[05-Nov-2014 06:05:25] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 25
+[05-Nov-2014 06:07:01] PHP Warning:  require_once(ImageManipulator.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 4
+[05-Nov-2014 06:07:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ImageManipulator.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 4
+[05-Nov-2014 07:12:01] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 07:12:20] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 07:20:26] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 07:25:45] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 07:27:19] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 08:16:12] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 27
+[05-Nov-2014 10:12:34] PHP Parse error:  syntax error, unexpected '}' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 52
+[05-Nov-2014 10:12:35] PHP Parse error:  syntax error, unexpected '}' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 52
+[05-Nov-2014 11:22:20] PHP Warning:  require(configure.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[05-Nov-2014 11:22:20] PHP Warning:  require(configure.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[05-Nov-2014 11:22:20] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'configure.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[05-Nov-2014 19:05:10] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 19
+[05-Nov-2014 19:06:42] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 43
+[05-Nov-2014 19:10:12] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 65
+[07-Nov-2014 10:38:26] PHP Warning:  include(connection.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[07-Nov-2014 10:38:26] PHP Warning:  include(connection.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[07-Nov-2014 10:38:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 3
+[07-Nov-2014 10:38:26] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 7
+[07-Nov-2014 10:38:26] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/ssggssch/public_html/boronto.in/script/fetch_sub.php on line 7
+[07-Nov-2014 12:27:34] PHP Parse error:  syntax error, unexpected T_CLASS, expecting ',' or ';' in /home1/ssggssch/public_html/boronto.in/script/fetch_form.php on line 52
+[07-Nov-2014 17:19:17] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 17:19:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 20:05:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 20:06:08] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 20:07:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home1/ssggssch/public_html/boronto.in/script/upload.php:2) in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 3
+[07-Nov-2014 20:07:38] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 20:10:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 20:11:17] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 21:17:02] PHP Parse error:  syntax error, unexpected '-', expecting ']' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 43
+[07-Nov-2014 21:19:05] PHP Parse error:  syntax error, unexpected '-', expecting ']' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 79
+[07-Nov-2014 21:20:01] PHP Parse error:  syntax error, unexpected '-', expecting ']' in /home1/ssggssch/public_html/boronto.in/script/upload.php on line 91
+[07-Nov-2014 21:44:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[07-Nov-2014 21:45:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 94
+[08-Nov-2014 05:00:17] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 79
+[08-Nov-2014 05:00:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 79
+[08-Nov-2014 05:09:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 110
+[08-Nov-2014 05:14:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 79
+[08-Nov-2014 05:29:40] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/ssggssch/public_html/boronto.in/script/category.php on line 89
+[08-Nov-2014 05:40:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 110
+[08-Nov-2014 06:21:09] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 81
+[08-Nov-2014 06:21:50] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 81
+[08-Nov-2014 06:21:54] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 81
+[08-Nov-2014 06:35:54] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/ads.php on line 110
+[08-Nov-2014 06:36:04] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 303
+[08-Nov-2014 06:37:30] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 399
+[08-Nov-2014 06:38:03] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 303
+[08-Nov-2014 06:38:13] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 431
+[08-Nov-2014 06:39:32] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 271
+[08-Nov-2014 06:39:36] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 111
+[08-Nov-2014 06:40:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 111
+[08-Nov-2014 06:40:22] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 143
+[08-Nov-2014 06:40:26] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 143
+[08-Nov-2014 06:42:21] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 495
+[08-Nov-2014 10:10:21] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home1/ssggssch/public_html/boronto.in/script/subcategory.php on line 47
+[08-Nov-2014 10:10:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/subcategory.php on line 75
+[09-Nov-2014 05:25:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/subcategory.php on line 75
+[09-Nov-2014 05:26:02] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 207
+[09-Nov-2014 05:43:12] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 207
+[09-Nov-2014 05:43:14] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/script/category.php on line 207
+[09-Nov-2014 05:59:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/ssggssch/public_html/boronto.in/script/subcategory.php on line 57
+[09-Nov-2014 06:16:36] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/ssggssch/public_html/boronto.in/script/category.php on line 92
+[09-Nov-2014 06:17:08] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/ssggssch/public_html/boronto.in/script/category.php on line 92
+[09-Nov-2014 06:17:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/ssggssch/public_html/boronto.in/script/category.php on line 92
+[09-Nov-2014 06:20:59] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home1/ssggssch/public_html/boronto.in/script/category.php on line 245

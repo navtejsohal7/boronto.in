@@ -1,0 +1,5 @@
+[08-Nov-2014 19:33:04] PHP Warning:  include(//boronto.in/script/connect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/ssggssch/public_html/boronto.in/sub/index.php on line 2
+[08-Nov-2014 19:33:04] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '//boronto.in/script/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/ssggssch/public_html/boronto.in/sub/index.php on line 2
+[08-Nov-2014 19:33:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/ssggssch/public_html/boronto.in/sub/index.php on line 6
+[08-Nov-2014 19:33:04] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/ssggssch/public_html/boronto.in/sub/index.php on line 7
+[08-Nov-2014 19:37:32] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/ssggssch/public_html/boronto.in/sub/index.php on line 7
